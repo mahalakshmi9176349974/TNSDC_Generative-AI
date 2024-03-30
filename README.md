@@ -1,4 +1,4 @@
-# TNSDC_Generative-AI
+MULTI-MODAL HUMAN ACTIVITY RECOGNITION AND PREDICTION IN SMART ENVIRONMENTS
  AGENDA:Definition and importance of HAR
  Overview of multi-modal sensing technologies.
 Collection of multi-modal data from sensors
